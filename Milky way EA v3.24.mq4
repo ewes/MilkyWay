@@ -1,11 +1,11 @@
 //+------------------------------------------------------------------+
-//|                                           Milky way EA v3.23.mq4 |
+//|                                           Milky way EA v3.24.mq4 |
 //|                                                                  |
 //|                                                                  |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2014, Silentspec Transcontinental Intergalactic Corp"
-#property link      "http://tradelikeapro.ru/"
-#property version   "3.23"
+#property copyright "Copyright 2015, Silentspec"
+#property link      "http://www.investlabfx.ru/"
+#property version   "3.24"
 
 extern string              Settings01 =                  "====Настройки входа====";
 extern int                 BBPeriod =                    20;                           // Период Bollinger Bands
